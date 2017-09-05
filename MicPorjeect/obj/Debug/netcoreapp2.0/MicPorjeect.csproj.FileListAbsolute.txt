@@ -1,0 +1,3 @@
+c:\users\emma\source\repos\MicPorjeect\MicPorjeect\obj\Debug\netcoreapp2.0\MicPorjeect.csproj.CoreCompileInputs.cache
+c:\users\emma\source\repos\MicPorjeect\MicPorjeect\obj\Debug\netcoreapp2.0\MicPorjeect.AssemblyInfoInputs.cache
+c:\users\emma\source\repos\MicPorjeect\MicPorjeect\obj\Debug\netcoreapp2.0\MicPorjeect.AssemblyInfo.cs
